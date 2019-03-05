@@ -1,0 +1,17 @@
+
+    <resources>
+        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+            <item name="colorPrimary">#1A2843</item>
+            <item name="colorPrimaryDark">#1A2843</item>
+            <item name="colorAccent">#1A2843</item>
+
+        </style>
+
+        <style name="MyAppTheme" parent="@style/AppTheme" />
+
+        <style name="HeaderBar">
+            <item name="android:background">#303F9F</item>
+            <item name="android:textColor">#ffffff</item>
+        </style>
+    </resources>
+
